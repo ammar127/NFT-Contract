@@ -1,0 +1,19 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Nationality",
+            "value": "Pakistani"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Red"
+        },
+        { 
+            "trait_type": "Eye color",
+            "value": "Black"
+        }
+    ],
+    "description": "Testing NFT IMAGE",
+    "image": "ipfs://QmNYw4hYPMxj4B9C1QKFJ6tPSD8zD1DiaPmHUhgdLpiuEx",
+    "name": "Ammar NFT"
+}
